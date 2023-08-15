@@ -187,3 +187,6 @@ Tips & Requirements:
 Make sure that the checkbox of each row is correctly checked or unchecked after the user interaction
 React Hooks are new in React and the number of resources can be limited. Refer to the official documentation of React. The exercise is simple enough that should not need anything else
 Do not modify the component to a Class. You need to use the React Hook
+
+
+......
